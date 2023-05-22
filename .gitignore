@@ -8,6 +8,7 @@ chromedriver.exe
 LICENSE.chromedriver
 chromedriver_win32
 model/
+data/
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
